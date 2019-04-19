@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/iamshaunjp/websockets-playlist#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.16.4"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "nodemon": "^1.18.11"
   }
 }
