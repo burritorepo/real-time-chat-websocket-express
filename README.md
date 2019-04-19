@@ -1,2 +1,3 @@
-# websockets-playlist
-All the course files for the WebSockets playlist on The Net Ninja YouTube channel.
+# Real-time chat with websockets using socket.io, express and Nodejs
+A real-time chat for building up my developer skills
+
